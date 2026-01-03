@@ -7,7 +7,7 @@ Elaboración de Dashboard en Power BI con indicadores ponderados.
 Este proyecto presenta un análisis del mercado laboral en Lima Metropolitana usando microdatos de la Encuesta Permanente de Empleo Nacional (EPEN) 2025,correspondientes al trimestre móvil abril-mayo-junio,
 publicados por el INEI.
 
-El objetivo es analizar y explorar la situacion del empleo, el perfil demográfico y las brechas de ingreso, aplicando factores de expansión para obtener estimaciones poblacionales representativas y tomar acciones pertinentes en pro de la igualdad entre géneros.
+El objetivo es analizar y explorar la situación del empleo, el perfil demográfico y las brechas de ingreso, aplicando factores de expansión para obtener estimaciones poblacionales representativas y tomar acciones pertinentes en pro de la igualdad entre géneros.
 
 Como resultado final se elaboró un dashboard de 3 páginas, el cual es pieza fundamental para un portafolio como Analista de Datos Jr.
 
