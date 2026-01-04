@@ -27,7 +27,7 @@ Como resultado final se elaboró un dashboard de 3 páginas, el cual es pieza fu
  
  Periodo: Trimestre móvil Abr-May-Jun 2025
  
- Cobertura: Geográfica: Lima Metropolitana
+ Cobertura Geográfica: Lima Metropolitana
 
  ⚙️ Metodología:
  
